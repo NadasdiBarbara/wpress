@@ -30,11 +30,6 @@
                 "type:wordpress-theme"
             ]
         }
-    },
-    "require": {
-        "johnpbloch/wordpress": "^5.9",
-        "wpackagist-plugin/wordpress-seo": "^18.1",
-        "wpackagist-theme/astra": "^3.7"
     }
     
 }
